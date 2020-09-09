@@ -1,0 +1,5 @@
+classes = 3
+train  = /home/icefire/Non-Academic_Projects/ML/Working/Face_Mask/Face_Mask_Model/darknet/build/darknet/x64/data/train.txt
+valid  = /home/icefire/Non-Academic_Projects/ML/Working/Face_Mask/Face_Mask_Model/darknet/build/darknet/x64/data/test.txt
+names = /home/icefire/Non-Academic_Projects/ML/Working/Face_Mask/Face_Mask_Model/darknet/build/darknet/x64/data/obj.names
+backup = backup/
